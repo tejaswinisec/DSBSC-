@@ -75,6 +75,7 @@ Output Graph
 
 Tablular Column
 
+![20251204_111247](https://github.com/user-attachments/assets/3d748954-e205-4340-a1b1-6cc7ee081304)
 
 
 
