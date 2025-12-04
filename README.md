@@ -76,7 +76,6 @@ Output Graph
 Tablular Column
 
 
-[![WhatsApp Image 2025-09-25 at 21 05 17_d74e0f7a](https://github.com/user-attachments/assets/278c6eaf-e805-401d-9702-d848badd06cf)](https://github.com/tejaswinisec/19AI304-Fundamentals-of-C-Programming-2025-Odd-M5.git)
 
 
 Result
